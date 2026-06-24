@@ -1,0 +1,8 @@
+# Basic mobile scaffold
+{
+  "name": "library-management-mobile",
+  "private": true,
+  "dependencies": {
+    "react-native": "0.72.4"
+  }
+}
